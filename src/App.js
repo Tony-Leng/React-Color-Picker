@@ -25,7 +25,7 @@ function App() {
       onChangeComplete={handleOnChange}
       />
 
-
+      <h1>Here's your color code: {currentColor}</h1>
     </div>
   );
 }
